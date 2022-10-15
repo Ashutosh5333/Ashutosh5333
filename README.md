@@ -1,6 +1,6 @@
                                                - 👋 Hi, I’m Ashutosh lakshakar
                                              
-                                                A passionate  Full Stack Developer
+                                                A passionate Full Stack Developer
                                                    
 - 📫 I’m currently learning  MERN STACK                               
 - 💞️ All of my projects are available at https://github.com/Ashutosh5333
