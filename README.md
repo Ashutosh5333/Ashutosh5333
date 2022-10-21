@@ -2,14 +2,14 @@
 <img src="https://media.tenor.com/2gfRHLv6GZ8AAAAd/code-coding.gif" align="center" style="width: 100%" />
 </div>  
   
-
-- ### **<div align="center">I'm Ashutosh Lakshakar, Full-Stack Developer 👨‍💻 </div>**  
   
 
--  I’m currently learning  Redux ,MERN STACK  
+ ### **<div align="center">I'm Ashutosh Lakshakar, Full-Stack Developer 👨‍💻 </div>**  
   
 
-- 👨‍💻 All of my projects are available at https://github.com/Ashutosh5333  
+ -  I’m currently learning  Redux ,MERN STACK  
+  
+ - 👨‍💻 All of my projects are available at https://github.com/Ashutosh5333  
   
 
 - ❓Ask me about HTML ,CSS, JS ,ReactJs ,NodeJS  
@@ -20,7 +20,7 @@
 
 <br/>  
 
-<div align="center">
+<div align="left">
 <img src="https://komarev.com/ghpvc/?username=Ashutosh5333&&style=flat-square" align="center" />
 </div>  
   
