@@ -3,20 +3,15 @@
 </div>  
   
 
-### <div align="center">I'm Ashutosh Lakshakar, a full-time full-stack freelance developer 👨‍💻    🚀</div>  
+### <div align="center">I'm Ashutosh Lakshakar, Full-Stack Developer 👨‍💻    🚀</div>  
   
 
--  📫 I’m currently learning  MERN STACK        
-  
-
-- 🌱 I’m currently learning Hyperledger and Kubernetes    
+-  📫 I’m currently learning  MERN STACK          
 - 👨‍💻 All of my projects are available at https://github.com/Ashutosh5333
 - ❓Ask me about HTML ,CSS, JS ,ReactJs ,NodeJS   
 - 📫 How to reach me lakshakarashutosh@gmail.com
-
 - ⚡ Fun fact: I use tabs over spaces  
   
-
 <br/>  
 
 
