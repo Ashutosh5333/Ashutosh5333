@@ -1,4 +1,4 @@
-      <div align="center">
+    
 
 </div>  
   
@@ -9,11 +9,10 @@
 -  📫 I’m currently learning  MERN STACK        
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
+- 🌱 I’m currently learning Hyperledger and Kubernetes    
+- 👨‍💻 All of my projects are available at https://github.com/Ashutosh5333
 - ❓Ask me about HTML ,CSS, JS ,ReactJs ,NodeJS   
-  
+- 📫 How to reach me lakshakarashutosh@gmail.com
 
 - ⚡ Fun fact: I use tabs over spaces  
   
