@@ -1,23 +1,16 @@
 <div align="center">
 <img src="https://media.tenor.com/2gfRHLv6GZ8AAAAd/code-coding.gif" align="center" style="width: 100%" />
 </div>  
-  
-  
 
  ### **<div align="center">I'm Ashutosh Lakshakar, Full-Stack Developer 👨‍💻 </div>**  
   
-
- -  I’m currently learning  Redux ,MERN STACK  
+ - 👨‍ Currently i am learning Typescript and Backend development which includes authentication,authorization and websockets.
   
  - 👨‍💻 All of my projects are available at https://github.com/Ashutosh5333  
   
-
-- ❓Ask me about HTML ,CSS, JS ,ReactJs ,NodeJS  
+ - ❓Ask me about HTML ,CSS, JS ,ReactJs ,NodeJS  
   
-
-- 📫 How to reach me lakshakarashutosh@gmail.com  
-  
-
+ - 📫 How to reach me lakshakarashutosh@gmail.com  
 <br/>  
 
 <div align="left">
@@ -28,8 +21,6 @@
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
