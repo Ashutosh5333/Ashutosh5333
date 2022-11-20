@@ -1,6 +1,3 @@
-<div align="center">
-<img src="https://media.tenor.com/2gfRHLv6GZ8AAAAd/code-coding.gif" align="center" style="width: 100%" />
-</div>  
 
  ### **<div align="center">I'm Ashutosh Lakshakar, Full-Stack Developer 👨‍💻 </div>**  
   
