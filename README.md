@@ -1,14 +1,19 @@
 
  ### **<div align="center">I'm Ashutosh Lakshakar, Full-Stack Developer 👨‍💻 </div>**  
   
- - 👨‍ Currently i am learning Typescript and Backend development which includes authentication,authorization and websockets.
+ - 👨‍ Currently I am learning Typescript and Backend development which includes authentication,authorization and websockets.
   
  - 👨‍💻 All of my projects are available at https://github.com/Ashutosh5333  
   
  - ❓Ask me about HTML ,CSS, JS ,ReactJs ,NodeJS  
   
  - 📫 How to reach me lakshakarashutosh@gmail.com  
+   <div align="center">
+        <img src="https://user-images.githubusercontent.com/101393850/203085257-35f27fde-d256-4b2d-b65c-8458a73cb026.gif"  />  
+</div>  
 <br/>  
+<!-- ![GitHub Desktop](https://user-images.githubusercontent.com/101393850/203085257-35f27fde-d256-4b2d-b65c-8458a73cb026.gif) -->
+
 
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=Ashutosh5333&&style=flat-square" align="center" />
