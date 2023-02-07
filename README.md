@@ -1,7 +1,7 @@
 
  ### **<div align="center">I'm Ashutosh Lakshakar, Full-Stack Developer 👨‍💻 </div>**  
   
- - 👨‍ Currently I am learning NodeJs and Backend development which includes authentication,authorization and websockets.
+ - 👨‍ Currently I am working on instagram clone .
   
  - 👨‍💻 All of my projects are available at https://github.com/Ashutosh5333  
   
