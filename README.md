@@ -1,5 +1,7 @@
 
  ### **<div align="center">I'm Ashutosh Lakshakar, Full-Stack Developer 👨‍💻 </div>**  
+
+   ### **<div align="center">Dedicated Full-stack Web Developer | Masai School Alumnus | Proficient in Front-end & Back-end | Passionate about Crafting User-centric Applications | Committed to Innovative Solutions & Continuous Learning. </div>**  
   
  - 👨‍ Currently I am working on instagram clone .
   
