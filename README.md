@@ -3,7 +3,7 @@
 
    ### **<div align="center">Dedicated Full-stack Web Developer | Masai School Alumnus | Proficient in Front-end & Back-end | Passionate about Crafting User-centric Applications | Committed to Innovative Solutions & Continuous Learning. </div>**  
   
- - 👨‍ Currently I am working on Acn healthcare . 
+ - 👨‍ Currently I am working in Acn healthcare . 
   
  - 👨‍💻 All of my projects are available at https://github.com/Ashutosh5333  
   
