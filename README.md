@@ -3,11 +3,11 @@
 
    ### **<div align="center">Dedicated Full-stack Web Developer | Masai School Alumnus | Proficient in Front-end & Back-end | Passionate about Crafting User-centric Applications | Committed to Innovative Solutions & Continuous Learning. </div>**  
   
- - 👨‍ Currently I am working on instagram clone .
+ - 👨‍ Currently I am working on Acn healthcare . 
   
  - 👨‍💻 All of my projects are available at https://github.com/Ashutosh5333  
   
- - ❓Ask me about HTML ,CSS, JS ,ReactJs ,NodeJS  
+ - ❓Ask me about HTML, CSS, Tailwind css, JS, ReactJs, NextJs, Express Js, NodeJS, mongoDb, Aws, Automation.   
   
  - 📫 How to reach me lakshakarashutosh@gmail.com  
    <div align="center">
